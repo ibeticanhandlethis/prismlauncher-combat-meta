@@ -1,0 +1,17 @@
+{
+    "latest": {
+        "release": "1.16-combat_6",
+        "snapshot": "1.16-combat_4"
+    },
+    "versions": [
+        {
+            "complianceLevel": 0,
+            "id": "1.16-combat_6",
+            "releaseTime": "2020-07-29T13:19:05+00:00",
+            "sha1": "later",
+            "time": "2022-02-25T13:15:31+00:00",
+            "type": "release",
+            "url": "wait"
+        }
+      ]
+}
