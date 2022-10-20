@@ -8,10 +8,10 @@
             "complianceLevel": 0,
             "id": "1.16-combat_6",
             "releaseTime": "2020-07-29T13:19:05+00:00",
-            "sha1": "later",
+            "sha1": "13538E25D9C817F2F4AB112EAEAE293ED3D53D6C",
             "time": "2022-02-25T13:15:31+00:00",
             "type": "release",
-            "url": "wait"
+            "url": "https://github.com/latteru/prismlauncher-combat-meta/raw/master/launchermeta/1_16_combat-6.json"
         }
       ]
 }
